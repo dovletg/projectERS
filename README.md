@@ -52,7 +52,10 @@ A Manager can:
 <img width="1134" alt="Screen Shot 2022-06-08 at 11 28 08 PM" src="https://user-images.githubusercontent.com/26014125/172765125-f2147652-d134-4d61-844f-f52d7a45875f.png">
 <img width="1134" alt="Screen Shot 2022-06-08 at 11 28 45 PM" src="https://user-images.githubusercontent.com/26014125/172765142-181f9898-0cdd-4197-9f6d-245292b0e815.png">
 <img width="1134" alt="Screen Shot 2022-06-08 at 11 31 53 PM" src="https://user-images.githubusercontent.com/26014125/172765161-2ff7fa29-6eae-4a39-b547-911b576caefc.png">
+<img width="1030" alt="Screen Shot 2022-06-27 at 2 28 39 PM" src="https://user-images.githubusercontent.com/74020237/176031900-a523c812-9d65-4607-9b7f-acae18279728.png">
+<img width="1064" alt="Screen Shot 2022-06-27 at 2 28 28 PM" src="https://user-images.githubusercontent.com/74020237/176031902-9fa5fb14-8e4b-40ea-8022-27391ba86e5e.png">
+<img width="906" alt="Screen Shot 2022-06-27 at 2 28 09 PM" src="https://user-images.githubusercontent.com/74020237/176031904-5b80149d-3d78-4dcb-8cb4-dd7a51ffe96b.png">
 
 Contributors
 ------------
-Dovletgeldi Kossekov and Khine Zaw
+Dovletgeldi Kossekov https://github.com/dovletg and Khine Zaw https://github.com/kzaw7
